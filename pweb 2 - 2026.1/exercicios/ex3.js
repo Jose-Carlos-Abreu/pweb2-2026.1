@@ -1,0 +1,15 @@
+import { verificar_triangulo } from './lib/triangulo.js'
+
+console.log(verificar_triangulo(2, 2, 2))
+console.log(verificar_triangulo(10, 10, 10))
+console.log(verificar_triangulo(3, 4, 4))
+console.log(verificar_triangulo(4, 3, 4))
+console.log(verificar_triangulo(4, 4, 3))
+console.log(verificar_triangulo(10, 10, 2))
+console.log(verificar_triangulo(3, 4, 5))
+console.log(verificar_triangulo(10, 11, 12))
+console.log(verificar_triangulo(5, 4, 2))
+console.log(verificar_triangulo(0, 0, 0))
+console.log(verificar_triangulo(3, 4, -5))
+console.log(verificar_triangulo(1, 1, 3))
+console.log(verificar_triangulo(2, 4, 2))
