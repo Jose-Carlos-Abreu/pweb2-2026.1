@@ -1,0 +1,19 @@
+{
+  "name": "nota1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+      "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
