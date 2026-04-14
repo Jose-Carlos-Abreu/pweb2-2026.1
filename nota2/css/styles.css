@@ -1,0 +1,12 @@
+.flag-item {
+  min-height: 7rem;
+}
+
+.flag-item img {
+  max-width: 100%;
+}
+
+.flag-item small {
+  font-size: 0.75rem;
+  color: #666;
+}
